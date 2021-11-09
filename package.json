@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list",
+  "version": "0.0.1",
+  "description": "API REST para criar um To do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devHelioFranco/API-REST-to-do-list.git"
+  },
+  "author": "Helio Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devHelioFranco/API-REST-to-do-list/issues"
+  },
+  "homepage": "https://github.com/devHelioFranco/API-REST-to-do-list#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
